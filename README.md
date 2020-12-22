@@ -1,3 +1,3 @@
 # aws-s3-restapi-test
 
-S3 SDK Docs: <a href="https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/top-level-namespace.html">Docs</a>
+<a href="https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html">S3 SDK Docs</a>
